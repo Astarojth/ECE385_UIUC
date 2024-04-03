@@ -1,0 +1,699 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/simulation/modelsim
+vALU
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1711514581
+!i10b 1
+!s100 g?>45d2j<eVJnF[Y>8Ync0
+IP:6]@e0QjVoj:Ef36:igW1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 components_sv_unit
+S1
+R0
+Z5 w1711471721
+Z6 8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/components.sv
+Z7 FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/components.sv
+L0 290
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1711514581.000000
+Z10 !s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/components.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/components.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work {+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6}
+Z14 tCvgOpt 0
+n@a@l@u
+vdatapath
+R1
+R2
+!i10b 1
+!s100 ]LO1>_[ZhCa6^SD6<51L_0
+I87D3BLb;hNAg10N>CaCSj0
+R3
+!s105 datapath_sv_unit
+S1
+R0
+w1711098988
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/datapath.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/datapath.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/datapath.sv|
+!i113 1
+R12
+R13
+R14
+veightreg_16
+R1
+R2
+!i10b 1
+!s100 RHlDDhz]X^5[VfO4QUQ@P0
+IQ>Q[VQmFH>;]o;]Qn3zdc1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 40
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vflip_flop
+R1
+R2
+!i10b 1
+!s100 @G845jGV8gA1`HBZ`H7:>3
+ILeJam;Kn6QFOE9l`gC8`g1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 125
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 ^DddjRd7Wla]U<SlP;mT@0
+IO=lc>NZoEKW7Q0zQ^ekoS2
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+Z15 w1560874210
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/HexDriver.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/HexDriver.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/HexDriver.sv|
+!i113 1
+R12
+R13
+R14
+n@hex@driver
+vISDU
+R1
+R2
+!i10b 1
+!s100 en?IJ6M5@YnCXn8:jX]:e3
+ISRKLg4]oX1FLoFJJ9GZRg3
+R3
+!s105 ISDU_sv_unit
+S1
+R0
+w1711471312
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/ISDU.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/ISDU.sv
+Z16 L0 19
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/ISDU.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/ISDU.sv|
+!i113 1
+R12
+R13
+R14
+n@i@s@d@u
+vlab6_toplevel
+R1
+Z17 !s110 1711514582
+!i10b 1
+!s100 k;XFYEj__@<f`n61h0?<B3
+I3lz8cUQgl<;3`=f]H0NPa2
+R3
+!s105 lab6_toplevel_sv_unit
+S1
+R0
+R15
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/lab6_toplevel.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/lab6_toplevel.sv
+L0 10
+R8
+r1
+!s85 0
+31
+Z18 !s108 1711514582.000000
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/lab6_toplevel.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/lab6_toplevel.sv|
+!i113 1
+R12
+R13
+R14
+vMem2IO
+R1
+R2
+!i10b 1
+!s100 d<=A`]_5?F8Tz<i9:]04<3
+IXC@4<64RNjYZ8>]manl3i1
+R3
+!s105 Mem2IO_sv_unit
+S1
+R0
+R15
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/Mem2IO.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/Mem2IO.sv
+Z19 L0 16
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/Mem2IO.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/Mem2IO.sv|
+!i113 1
+R12
+R13
+R14
+n@mem2@i@o
+Xmemory_contents_sv_unit
+R1
+Z20 DXx4 work 6 SLC3_2 0 22 U6QI0M0gbiPH?O[[V7Hfi1
+V:]LW7W;@l[XA4eY91MOO80
+r1
+!s85 0
+31
+!i10b 1
+!s100 c2m7WKcaV<L[XVf`30RGj3
+I:]LW7W;@l[XA4eY91MOO80
+!i103 1
+S1
+R0
+R15
+Z21 8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/memory_contents.sv
+Z22 FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/memory_contents.sv
+Z23 L0 14
+R8
+R18
+Z24 !s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/memory_contents.sv|
+Z25 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/memory_contents.sv|
+!i113 1
+R12
+R13
+R14
+vmemory_parser
+R1
+R20
+DXx4 work 23 memory_contents_sv_unit 0 22 :]LW7W;@l[XA4eY91MOO80
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 744B[g>P4=Q9zVQXU8>HF2
+IfNP9mzUccNH>K;X@CX>e[0
+!s105 memory_contents_sv_unit
+S1
+R0
+R15
+R21
+R22
+R19
+R8
+R18
+R24
+R25
+!i113 1
+R12
+R13
+R14
+vmux_ADDR1
+R1
+R2
+!i10b 1
+!s100 fA<B7`gm;9WX0hJKVP_G[0
+IM:`oN7=`jXcT=KTgO@lTU2
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 217
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@a@d@d@r1
+vmux_ADDR2
+R1
+R2
+!i10b 1
+!s100 Gj4DjI<g@ZCH82^ESWnAD0
+I[CI0UG>ZbQLUO7AAzdQ=K1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 196
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@a@d@d@r2
+vmux_DR
+R1
+R2
+!i10b 1
+!s100 a3`^nGmhi50;?NzNd9EE<3
+IVhSZ^XVX]2<mnPjbnh@z11
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 234
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@d@r
+vmux_GATES
+R1
+R2
+!i10b 1
+!s100 H_z1=9gnGNe>1Q;XoAiVW2
+Izz92T9:nfj8oo3?4>C[U>3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 175
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@g@a@t@e@s
+vmux_MDR
+R1
+R2
+!i10b 1
+!s100 HIjfcFe8bThVNK^8PJTH61
+IJz5;[b9?9aB]bhfKK49;Q3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 160
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@m@d@r
+vmux_PC
+R1
+R2
+!i10b 1
+!s100 dT3A2LZoXHj>>^]PY0HT]3
+Idhg[R8XH4[zk3>2T=Si:62
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 141
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@p@c
+vmux_SR1
+R1
+R2
+!i10b 1
+!s100 HkneE33bKE]<4^d]PB`Mn3
+IWbUnl6RF2_M>3N<]Dh^^61
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 248
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@s@r1
+vmux_SR2
+R1
+R2
+!i10b 1
+!s100 7Rj;hY>X9U7HJ<IdndQg61
+IM0BbUd;^B:CDJ;QRZo1T32
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 262
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nmux_@s@r2
+vNZP
+R1
+R2
+!i10b 1
+!s100 n2DIKb4gHW6ONjQdg24252
+IAOmLPT_j@7^CM>7:8VOCf3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 277
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@n@z@p
+vreg_16
+R1
+R2
+!i10b 1
+!s100 RUF]m3abUYLO0ml64[f9=0
+IX3F_abA?CP@JOF`^n8FSK1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 27
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vreg_4
+R1
+R2
+!i10b 1
+!s100 2VnhnOI>NYl>;MCi4<O2?1
+IZ8LSH`>8gEoKBd9?T@Q590
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+R23
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vreg_8
+R1
+R2
+!i10b 1
+!s100 ]nci=5I;YFaSn_L>9?UM]2
+I?eOgU1>eP8N2ihFjV?QjN3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vslc3
+R1
+R2
+!i10b 1
+!s100 PF<9n<f@:KlMXgkbZJ>5E2
+Ia@Jlh[Uaf6?cDTzkd]m@k1
+R3
+!s105 slc3_sv_unit
+S1
+R0
+w1711469473
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/slc3.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/slc3.sv
+R16
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/slc3.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/slc3.sv|
+!i113 1
+R12
+R13
+R14
+XSLC3_2
+R1
+R2
+!i10b 1
+!s100 Cz8_^@QRefP31?j=Zf>lj0
+IU6QI0M0gbiPH?O[[V7Hfi1
+VU6QI0M0gbiPH?O[[V7Hfi1
+S1
+R0
+R15
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/SLC3_2.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/SLC3_2.sv
+L0 24
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/SLC3_2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/SLC3_2.sv|
+!i113 1
+R12
+R13
+R14
+n@s@l@c3_2
+vtest_memory
+R1
+R2
+!i10b 1
+!s100 AZAU7PQT4]][EEHo>57W43
+I1h:R3bX5_[0z07F>cmEj71
+R3
+!s105 test_memory_sv_unit
+S1
+R0
+R15
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/test_memory.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/test_memory.sv
+L0 22
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/test_memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/test_memory.sv|
+!i113 1
+R12
+R13
+R14
+vtestbench_week2
+R1
+R17
+!i10b 1
+!s100 fP<ETGo2P?_GjOPX6Ec=Q1
+IU2U1zI1PBnmz;obH>[B<n1
+R3
+!s105 testbench_week2_sv_unit
+S1
+R0
+w1711025303
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/testbench_week2.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/testbench_week2.sv
+L0 43
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/testbench_week2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/testbench_week2.sv|
+!i113 1
+R12
+R13
+R14
+vtristate
+R1
+R2
+!i10b 1
+!s100 Akazoo=71mOgoH<gVR_UC0
+IQTQ^Nf<zJaHQoNi^K2`WC2
+R3
+!s105 tristate_sv_unit
+S1
+R0
+R15
+8C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/tristate.sv
+FC:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/tristate.sv
+R19
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/tristate.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6|C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/tristate.sv|
+!i113 1
+R12
+R13
+R14

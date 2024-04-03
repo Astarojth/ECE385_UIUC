@@ -1,0 +1,312 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/simulation/modelsim
+vcontrol
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1710496797
+!i10b 1
+!s100 Z0hSK[oC6lmajoLD:SU4I0
+IX_k3a2ToLZT04>C];0KXS0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Control_sv_unit
+S1
+R0
+w1585129390
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/Control.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/Control.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1710496797.000000
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/Control.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/Control.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work {+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5}
+Z8 tCvgOpt 0
+vD_filp_flop
+R1
+R2
+!i10b 1
+!s100 :TjlNBj]cHCnaniSPQ`]G0
+I5aj`AEWe[?_g3S_W2KcGE2
+R3
+Z9 !s105 lab5_toplevel_sv_unit
+S1
+R0
+Z10 w1710302673
+Z11 8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/lab5_toplevel.sv
+Z12 FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/lab5_toplevel.sv
+L0 107
+R4
+r1
+!s85 0
+31
+R5
+Z13 !s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/lab5_toplevel.sv|
+Z14 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/lab5_toplevel.sv|
+!i113 1
+R6
+R7
+R8
+n@d_filp_flop
+vfull_adder
+R1
+Z15 !s110 1710496796
+!i10b 1
+!s100 d:0?dDEDo89mZkZXDgVn71
+IaFU2hoQ^E9Nzkk^YFPUA]1
+R3
+!s105 full_adder_sv_unit
+S1
+R0
+w1710302147
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/full_adder.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/full_adder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z16 !s108 1710496796.000000
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/full_adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/full_adder.sv|
+!i113 1
+R6
+R7
+R8
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 ^DddjRd7Wla]U<SlP;mT@0
+IG9?_h=Lo9Rg:^]6I4]V=c2
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+Z17 w1581796284
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/HexDriver.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/HexDriver.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/HexDriver.sv|
+!i113 1
+R6
+R7
+R8
+n@hex@driver
+vlab5_toplevel
+R1
+R2
+!i10b 1
+!s100 [Qb^Hd@im_KK0?oEQ^S=X0
+Ijbkhe1cN^JFb=ljPA0RWo1
+R3
+R9
+S1
+R0
+R10
+R11
+R12
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R13
+R14
+!i113 1
+R6
+R7
+R8
+vreg_8
+R1
+R2
+!i10b 1
+!s100 bColnX`f3CgL337nOPKMF2
+IS85V6GG<J0cV_KW5LJ=TL0
+R3
+R9
+S1
+R0
+R10
+R11
+R12
+L0 86
+R4
+r1
+!s85 0
+31
+R5
+R13
+R14
+!i113 1
+R6
+R7
+R8
+vripple_adder
+R1
+R15
+!i10b 1
+!s100 ElgC2ENaD6om[D=ogY4SK3
+Ikf_:S=S6miY;V<NnmC[8=0
+R3
+!s105 ripple_adder_sv_unit
+S1
+R0
+w1710302639
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/ripple_adder.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/ripple_adder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/ripple_adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/ripple_adder.sv|
+!i113 1
+R6
+R7
+R8
+vsync
+R1
+R2
+!i10b 1
+!s100 2W5Vz0:F6ckE2`eJOTK5l1
+I_Ncmc5fLG3:`?Z;gb7i_k3
+R3
+Z18 !s105 Synchronizers_sv_unit
+S1
+R0
+R17
+Z19 8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/Synchronizers.sv
+Z20 FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/Synchronizers.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+Z21 !s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/Synchronizers.sv|
+Z22 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/Synchronizers.sv|
+!i113 1
+R6
+R7
+R8
+vsync_r0
+R1
+R2
+!i10b 1
+!s100 IGd9f_F;JNjVBLQ@DAnD10
+IBHT0AE2@@oB>DKROQ7Pj;0
+R3
+R18
+S1
+R0
+R17
+R19
+R20
+L0 18
+R4
+r1
+!s85 0
+31
+R5
+R21
+R22
+!i113 1
+R6
+R7
+R8
+vsync_r1
+R1
+R2
+!i10b 1
+!s100 1CXiH1DYDbAUS69Ee2j060
+IZJ1cAg]G>U>=;26oQnhG:1
+R3
+R18
+S1
+R0
+R17
+R19
+R20
+L0 39
+R4
+r1
+!s85 0
+31
+R5
+R21
+R22
+!i113 1
+R6
+R7
+R8
+vtestbench
+R1
+R2
+!i10b 1
+!s100 Q]3^L0FTf15Z0O_g:2kA83
+Im9g@NP5MI<;_kkKZJSS1i1
+R3
+!s105 testbench_sv_unit
+S1
+R0
+w1584947675
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/testbench.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/testbench.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/testbench.sv|
+!i113 1
+R6
+R7
+R8
+vthreebit_ripple_adder
+R1
+R15
+!i10b 1
+!s100 b;oYi>WU^Yhn5^2M1ij002
+IiR[9?n0c<08?7AJX5mj4h1
+R3
+!s105 threebit_ripple_adder_sv_unit
+S1
+R0
+w1710302161
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/threebit_ripple_adder.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/threebit_ripple_adder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/threebit_ripple_adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab5/lab5/threebit_ripple_adder.sv|
+!i113 1
+R6
+R7
+R8

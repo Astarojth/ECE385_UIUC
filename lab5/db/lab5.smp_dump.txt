@@ -1,0 +1,22 @@
+
+State Machine - |lab5_toplevel|control:control_unit|curr
+Name curr.Shift8 curr.Add8 curr.Shift7 curr.Add7 curr.Shift6 curr.Add6 curr.Shift5 curr.Add5 curr.Shift4 curr.Add4 curr.Shift3 curr.Add3 curr.Shift2 curr.Add2 curr.Shift1 curr.Add1 curr.excute curr.halt curr.Reset 
+curr.Reset 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+curr.halt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+curr.excute 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+curr.Add1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+curr.Shift1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+curr.Add2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+curr.Shift2 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+curr.Add3 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+curr.Shift3 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+curr.Add4 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+curr.Shift4 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+curr.Add5 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+curr.Shift5 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+curr.Add6 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr.Shift6 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr.Add7 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr.Shift7 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr.Add8 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+curr.Shift8 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

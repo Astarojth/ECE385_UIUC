@@ -1,0 +1,161 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/simulation/modelsim
+vcarry_lookahead_adder
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1709885165
+!i10b 1
+!s100 JC6`SURCBhdE`T=P<ninT1
+I`gm<1<zN^lbfQlQL>CPJ60
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 carry_lookahead_adder_sv_unit
+S1
+R0
+Z5 w1709883234
+Z6 8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/carry_lookahead_adder.sv
+Z7 FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/carry_lookahead_adder.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1709885165.000000
+Z10 !s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/carry_lookahead_adder.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/carry_lookahead_adder.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work {+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead}
+Z14 tCvgOpt 0
+vfourbit_carry_lookahead_adder
+R1
+R2
+!i10b 1
+!s100 JJzdDj>a2Z;2?D74odOIf0
+IbJK`YMZafMZl>M367[cXN3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 29
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vfull_adder
+R1
+R2
+!i10b 1
+!s100 g2K3C^o=CCbBbj3C0^PQP0
+IUFN7FL5LSHz:F_NW4?X2l1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 56
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 =R2i165HPJgkY;aA[TRmG3
+Ik:VK3QE`RNQOT;lgUUT[F3
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+Z15 w1610830840
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/HexDriver.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/HexDriver.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/HexDriver.sv|
+!i113 1
+R12
+R13
+R14
+n@hex@driver
+vlab4_adders_toplevel
+R1
+R2
+!i10b 1
+!s100 Ff0C^ZK^zfkDz504]X;SI2
+IhDe^znKL2SWF>Qo^RGF^h0
+R3
+!s105 lab4_adders_toplevel_sv_unit
+S1
+R0
+R15
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/lab4_adders_toplevel.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/lab4_adders_toplevel.sv
+L0 17
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/lab4_adders_toplevel.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/lab4_adders_toplevel.sv|
+!i113 1
+R12
+R13
+R14
+vtestbench
+R1
+R2
+!i10b 1
+!s100 cHn3>7M4Azd4N4L[hSH[D1
+IbI56jA_C?2f;0Bd==YB_j1
+R3
+!s105 testbench_adder_sv_unit
+S1
+R0
+R15
+8C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/testbench_adder.sv
+FC:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/testbench_adder.sv
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/testbench_adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead|C:/Users/123/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab4/lab4/lookahead/testbench_adder.sv|
+!i113 1
+R12
+R13
+R14

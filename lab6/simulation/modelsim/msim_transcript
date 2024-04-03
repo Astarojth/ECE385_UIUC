@@ -1,0 +1,185 @@
+# Reading C:/intelFPGA_lite/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# ** Warning: (vsim-144) Detected unknown compiler 'C:/intelFPGA_lite/18.0/modelsim_ase\gcc-4.2.1-mingw32vc12\bin\g++.exe'. Make sure that the CppPath INI file variable or the argument to the -cpppath option if set, is set to a path that exists
+# do Lab_6_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/components.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/components.sv 
+# -- Compiling module reg_8
+# -- Compiling module reg_4
+# -- Compiling module reg_16
+# -- Compiling module eightreg_16
+# -- Compiling module flip_flop
+# -- Compiling module mux_PC
+# -- Compiling module mux_MDR
+# -- Compiling module mux_GATES
+# -- Compiling module mux_ADDR2
+# -- Compiling module mux_ADDR1
+# -- Compiling module mux_DR
+# -- Compiling module mux_SR1
+# -- Compiling module mux_SR2
+# -- Compiling module NZP
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	reg_8
+# 	reg_4
+# 	reg_16
+# 	eightreg_16
+# 	flip_flop
+# 	mux_PC
+# 	mux_MDR
+# 	mux_GATES
+# 	mux_ADDR2
+# 	mux_ADDR1
+# 	mux_DR
+# 	mux_SR1
+# 	mux_SR2
+# 	NZP
+# 	ALU
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/tristate.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/tristate.sv 
+# -- Compiling module tristate
+# 
+# Top level modules:
+# 	tristate
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/test_memory.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/test_memory.sv 
+# -- Compiling module test_memory
+# 
+# Top level modules:
+# 	test_memory
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/SLC3_2.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/SLC3_2.sv 
+# -- Compiling package SLC3_2
+# 
+# Top level modules:
+# 	--none--
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/Mem2IO.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/Mem2IO.sv 
+# -- Compiling module Mem2IO
+# 
+# Top level modules:
+# 	Mem2IO
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/ISDU.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/ISDU.sv 
+# -- Compiling module ISDU
+# 
+# Top level modules:
+# 	ISDU
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/datapath.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/datapath.sv 
+# -- Compiling module datapath
+# 
+# Top level modules:
+# 	datapath
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/HexDriver.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/HexDriver.sv 
+# -- Compiling module HexDriver
+# 
+# Top level modules:
+# 	HexDriver
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/slc3.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:01 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/slc3.sv 
+# -- Compiling module slc3
+# 
+# Top level modules:
+# 	slc3
+# End time: 12:43:01 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/memory_contents.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:02 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/memory_contents.sv 
+# -- Compiling package memory_contents_sv_unit
+# -- Importing package SLC3_2
+# -- Compiling module memory_parser
+# 
+# Top level modules:
+# 	memory_parser
+# End time: 12:43:02 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/lab6_toplevel.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:02 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/lab6_toplevel.sv 
+# -- Compiling module lab6_toplevel
+# 
+# Top level modules:
+# 	lab6_toplevel
+# End time: 12:43:02 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+C:/Users/18238/OneDrive\ -\ University\ of\ Illinois\ -\ Urbana/2024\ SPRING/ECE385/lab6/lab6 {C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/testbench_week2.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:43:02 on Mar 27,2024
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6" C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/testbench_week2.sv 
+# -- Compiling module testbench_week2
+# 
+# Top level modules:
+# 	testbench_week2
+# End time: 12:43:02 on Mar 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  testbench
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" testbench 
+# Start time: 12:43:02 on Mar 27,2024
+# ** Warning: (vsim-144) Detected unknown compiler 'C:/intelFPGA_lite/18.0/modelsim_ase\gcc-4.2.1-mingw32vc12\bin\g++.exe'. Make sure that the CppPath INI file variable or the argument to the -cpppath option if set, is set to a path that exists
+# ** Error: (vsim-3170) Could not find 'testbench'.
+#         Searched libraries:
+#             C:/intelFPGA_lite/18.0/modelsim_ase/altera/verilog/altera
+#             C:/intelFPGA_lite/18.0/modelsim_ase/altera/verilog/220model
+#             C:/intelFPGA_lite/18.0/modelsim_ase/altera/verilog/sgate
+#             C:/intelFPGA_lite/18.0/modelsim_ase/altera/verilog/altera_mf
+#             C:/intelFPGA_lite/18.0/modelsim_ase/altera/verilog/altera_lnsim
+#             C:/intelFPGA_lite/18.0/modelsim_ase/altera/verilog/cycloneive
+#             C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/simulation/modelsim/rtl_work
+#             C:/Users/18238/OneDrive - University of Illinois - Urbana/2024 SPRING/ECE385/lab6/lab6/simulation/modelsim/rtl_work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./Lab_6_run_msim_rtl_verilog.do PAUSED at line 22
+# End time: 12:44:40 on Mar 27,2024, Elapsed time: 0:01:38
+# Errors: 1, Warnings: 1
